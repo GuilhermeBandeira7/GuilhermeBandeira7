@@ -3,7 +3,6 @@
 
 - 👨‍💻 I’m currently working as Junior .NET Developer
 - 👨‍🎓 Computer Science Undergraduate at UFPR 
-- 😄 Pronouns: He/Him ...
 
 
 <div style="display: inline_block"><br>
