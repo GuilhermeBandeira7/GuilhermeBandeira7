@@ -1,4 +1,4 @@
-### Hello there! I'm Guilherme, Junior developer and CS Student  👋
+### Hello there! I'm Guilherme, Fullstack developer and CS Student  👋
 
 
 - 👨‍💻 I’m currently working as Junior .NET Developer
