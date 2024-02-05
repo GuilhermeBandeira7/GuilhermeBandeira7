@@ -1,7 +1,7 @@
 ### Hello there! I'm Guilherme, Fullstack developer and CS Student  👋
 
 
-- 👨‍💻 I’m currently working as Junior .NET Developer
+- 👨‍💻 I’m currently working with javaScript, Vue.js and C# .NET
 - 👨‍🎓 Computer Science Undergraduate at UFPR 
 
 
