@@ -1,8 +1,8 @@
-### Hello there! I'm Guilherme, Fullstack developer and CS Student  👋
+### Hello! I'm Guilherme, Fullstack developer and Computer Science Student  👋
 
 
-- 👨‍💻 I’m currently working with javaScript, Vue.js and C# .NET
-- 👨‍🎓 Computer Science Undergraduate at UFPR 
+- 👨‍💻 I’m currently working with C# .NET SQL Server and Blazor
+- 👨‍🎓 2 Semester of Computer Science UFPR(Federal University of Paraná) 
 
 
 <div style="display: inline_block"><br>
