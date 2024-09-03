@@ -2,7 +2,7 @@
 
 
 - 👨‍💻 I’m currently working with C# .NET SQL Server and Blazor
-- 👨‍🎓 2 Semester of Computer Science UFPR(Federal University of Paraná) 
+- 👨‍🎓 Computer Science UFPR(Federal University of Paraná) 
 
 
 <div style="display: inline_block"><br>
