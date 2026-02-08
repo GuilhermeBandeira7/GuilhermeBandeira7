@@ -1,8 +1,7 @@
-### Hello! I'm Guilherme, Software Engineer  👋
+### Hello!👋
 
 
-- 👨‍💻 I’m currently working with C# .NET SQL Server and Blazor
-- 👨‍🎓 Computer Science UFPR(Federal University of Paraná) 
+- 👨‍💻 Software Engineer at Multiplike
 
 ##
 
