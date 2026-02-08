@@ -1,7 +1,5 @@
-### Hello!👋
 
-
-- 👨‍💻 Software Engineer at Multiplike
+- 👨‍💻 Software Engineer at Multiplike and bachelor's degree at PUCPR
 
 ##
 
